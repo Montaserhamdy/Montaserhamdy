@@ -13,7 +13,39 @@ I'm not a programmer in the traditional sense; I use programming as a tool to ma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser_hamdy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📖 آية قرآنية
-!file:///C:/Users/First/Downloads/quran-verse_1.svg
+<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" font-family="'Traditional Arabic','Scheherazade New','Amiri','Segoe UI',Tahoma,Arial,sans-serif">
+
+  <!-- outer background -->
+  <rect x="0" y="0" width="900" height="330" rx="0" fill="#0d1117"/>
+
+  <!-- heading -->
+  <text x="40" y="48" font-size="26" font-weight="700" fill="#f0f6fc" font-family="'Segoe UI',Tahoma,Arial,sans-serif">
+    📖 آية قرآنية
+  </text>
+  <line x1="30" y1="66" x2="870" y2="66" stroke="#30363d" stroke-width="1"/>
+
+  <!-- card panel -->
+  <rect x="40" y="95" width="820" height="190" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- verse text, right-to-left -->
+  <g direction="rtl" text-anchor="middle">
+    <text x="450" y="150" font-size="32" fill="#7dd3fc" font-weight="500">
+      إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ
+    </text>
+    <text x="450" y="198" font-size="32" fill="#7dd3fc" font-weight="500">
+      وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا
+    </text>
+    <text x="450" y="246" font-size="32" fill="#7dd3fc" font-weight="500">
+      وَحَمَلَهَا الْإِنسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+    </text>
+  </g>
+
+  <!-- attribution -->
+  <text x="820" y="260" font-size="20" fill="#f472b6" text-anchor="end" font-style="italic" font-family="'Segoe UI',Tahoma,Arial,sans-serif">
+    ﴿الأحزاب: ٧٢﴾
+  </text>
+
+</svg>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Montaser_hamdy&icon=0&color=0)](https://visitcount.itsvg.in)
