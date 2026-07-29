@@ -12,8 +12,8 @@ I'm not a programmer in the traditional sense; I use programming as a tool to ma
 ![](https://nirzak-streak-stats.vercel.app/?user=Montaser_hamdy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser_hamdy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📖 آية قرآنية
+![Quran Verse](assets/quran-verse.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Montaser_hamdy&icon=0&color=0)](https://visitcount.itsvg.in)
