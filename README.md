@@ -12,16 +12,7 @@ I'm not a programmer in the traditional sense; I use programming as a tool to ma
 ![](https://nirzak-streak-stats.vercel.app/?user=Montaser_hamdy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser_hamdy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 📖 آية قرآنية
-<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg" font-family="'Traditional Arabic','Scheherazade New','Amiri','Segoe UI',Tahoma,Arial,sans-serif">
-
-  <!-- outer background -->
-  <rect x="0" y="0" width="900" height="330" rx="0" fill="#0d1117"/>
-
-  <!-- heading -->
-  <text x="40" y="48" font-size="26" font-weight="700" fill="#f0f6fc" font-family="'Segoe UI',Tahoma,Arial,sans-serif">
-    📖 آية قرآنية
- 
+### 📖 آية قرآ
 ---
 [![](https://visitcount.itsvg.in/api?id=Montaser_hamdy&icon=0&color=0)](https://visitcount.itsvg.in)
 
